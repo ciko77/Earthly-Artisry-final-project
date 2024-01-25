@@ -12,7 +12,7 @@
         text-align: center;
     }
 
-    .index_section1 {
+    .index-section1 {
         height: 304px;
         row-gap: 32px;
     }
@@ -83,11 +83,11 @@
   
   @media (max-width: 481px) {
 
-    .index_section3 {
+    .index-section3 {
         padding: 64px 20px;
     }
 
-    .index_section3 h2 {
+    .index-section3 h2 {
         font-size: 32px;
         line-height: 40px;
         margin-bottom: 32px;
@@ -102,7 +102,7 @@
 
 
 @media (max-width: 420px) {
-    .index_section2 {
+    .index-section2 {
         padding: 64px 48px;
     }
 
